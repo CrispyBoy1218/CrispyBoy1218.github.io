@@ -1,0 +1,140 @@
+body{
+font-family:Arial, Helvetica, sans-serif;
+}
+
+
+.Header{
+    background-color:#8c8c8c;
+    padding-bottom:10px;
+    padding-top:10px;
+    top:0%;
+  position:fixed;
+  width:100%;
+  left:0%;
+  text-align:center;
+  outline: 1px solid white;
+  z-index: 1;
+}
+
+a:link, a:visited {
+    background-color: #000099;
+    font-size:30px;
+    padding: 14px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    outline: 1px solid white;
+    color:white;
+
+  }
+
+a:hover, a:active {
+    background-color: rgb(255, 255, 255);
+    color:black;
+    outline: 1px solid black;
+  }
+
+.nameheader{
+text-align:left;
+font-size: 40px;
+top:15%;
+position:absolute;
+left:15%;
+}
+
+.MyInfo{
+color:#8c8c8c;
+position:absolute;
+left:15%;
+top:42%;
+font-size:20px;
+}
+
+.SummaryHeader{
+    position:absolute;
+    font-size:40px;
+    left:15%;
+    top:50%;
+    font-weight:bold;
+}
+
+.summary{
+position:absolute;
+top:65%;
+left:15%;
+text-align:left;
+font-size:30px;
+}
+
+.WorkExperienceHeader{
+position:absolute;
+font-size:40px;
+left:15%;
+top:80%;
+font-weight:bold;
+}
+
+hr{
+background:#000099;
+height:5px;
+}
+
+.chiarellos{
+position:absolute;
+top:95%;
+left:15%;
+font-size:30px;
+}
+
+.ChiarellosList{
+position:absolute;
+left:40%;
+top:100%;
+font-size:40px;
+}
+
+.EducationHeader{
+position:absolute;
+left:15%;
+top:138%;
+font-size:40px;
+font-weight:bold;
+}
+
+.education{
+position:absolute;
+top:153%;
+left:15%;
+font-size:40px;
+}
+
+.ProjectHeader{
+position:absolute;
+left:15%;
+top:183%;
+font-size:40px;
+font-weight:bold;
+}
+
+.projects{
+  position:absolute;
+  top:194%;
+  left:15%;
+  font-size:40px;
+ 
+}
+
+.SkillsHeader{
+position:absolute;
+font-size:40px;
+font-weight:bold;
+left:15%;
+top:215%;
+}
+
+.skills{
+position:absolute;
+left:13%;
+top:225%;
+font-size:40px;
+}
