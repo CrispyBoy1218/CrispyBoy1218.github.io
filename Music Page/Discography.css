@@ -1,0 +1,19 @@
+body{background-color: #001a66;
+    font-style:copperplate;
+}
+
+.discography{
+    position:absolute;
+    left: 40%;
+    padding-left:20px ;
+    padding-right:20px ;
+    height:fit-content;
+    width:fit-content;
+    text-align:center;
+    color:white;
+    background-color: rgb(0, 0, 0);
+    z-index: 1;
+    top:0%;
+}
+
+.list{text-align:left;}

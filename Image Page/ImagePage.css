@@ -1,0 +1,261 @@
+.div-img1{
+position:absolute;
+    top:200px;
+    left:7%;
+    z-index: 1;
+}
+.div-img2{
+    position:absolute;
+        top:600px;
+        left:7%;
+        z-index: 1;
+
+    }
+    .div-img3{
+        position:absolute;
+            top:1000px;
+            left:7%;
+            z-index: 1;
+
+        }
+        .div-img4{
+            position:absolute;
+                top:1400px;
+                left:7%;
+                z-index: 1;
+
+            }
+            .div-img5{
+                position:absolute;
+                    top:1800px;
+                    left:7%;
+                    z-index: 1;
+
+                }
+                .div-img6{
+                    position:absolute;
+                        top:2200px;
+                        padding-bottom:125px;
+                        left:7%;
+                        z-index: 1;
+
+                    }
+img{
+    position:absolute;
+    transition: transform .2s;
+    width:500px;
+    height:250px;
+    left:7%;
+    margin:0 auto;
+    background-color: rgb(173, 173, 237);
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+img:hover{
+    transform:scale(1.5);
+}
+
+.span{
+    background-color:rgb(0, 0, 0);
+    padding-bottom:100px;
+    padding-top:20px;
+    top:0%;
+  position:absolute;
+  width:100%;
+  left:0%;
+  text-align:center;
+  color:white;
+  z-index: 0;
+  font-size:30px;
+  font-family:helvetica;
+
+  }
+
+  .spangold{
+    width:100%;
+    position:absolute;
+    z-index:0;
+    background-color: #b18854;
+    height:325px;
+    left:0%;
+    padding-top:65px;
+    outline:5px solid black
+
+  }
+
+  .spangreen{
+    width:100%;
+    position:absolute;
+    z-index:0;
+    background-color: #3f4328;
+    height:325px;
+    top:590px;
+    left:0%;
+    padding-top:65px;
+    
+    
+
+  }
+
+  .spanblue{
+    width:100%;
+    position:absolute;
+    z-index:0;
+    background-color: #458c8a;
+    height:325px;
+    top:980px;
+    left:0%;
+    padding-top:65px;
+  }
+
+  .spantan{
+    width:100%;
+    position:absolute;
+    z-index:0;
+    background-color: #cfa36f;
+    height:325px;
+    top:1370px;
+    left:0%;
+    padding-top:65px;
+  }
+
+  .spannavy{
+    width:100%;
+    position:absolute;
+    z-index:0;
+    background-color: #4f5d6a;
+    height:325px;
+    top:1760px;
+    left:0%;
+    padding-top:65px;
+  }
+
+  .spanyellow{
+    width:100%;
+    position:absolute;
+    z-index:0;
+    background-color: #d3ab66;
+    height:325px;
+    top:2150px;
+    left:0%;
+    padding-top:65px;
+  }
+
+  .spanend{
+    background-color:rgb(0, 0, 0);
+    padding-bottom:20px;
+    padding-top:20px;
+    top:2540px;
+  position:absolute;
+  width:100%;
+  left:0%;
+  text-align:center;
+  color:white;
+  z-index: 0;
+  font-size:30px;
+  font-family:helvetica;
+  }
+
+  .mountaintext{
+    position:absolute;
+    Height:150px;
+    width:750px;
+    padding-top:20px;
+    background-color:#8c6b40;
+    font-family:helvetica;
+    text-align:center;
+    z-index:1;
+    top:310px;
+    left:45%;
+    color:white;
+    font-size:20px;
+    border-radius: 25px;
+
+
+  }
+
+  .valleytext{
+    position:absolute;
+    Height:150px;
+    width:750px;
+    padding-top:20px;
+    background-color:#1e2013;
+    font-family:helvetica;
+    text-align:center;
+    z-index:1;
+    top:695px;
+    left:45%;
+    color:white;
+    font-size:20px;
+    border-radius: 25px;
+
+  }
+
+  .laketext{
+    position:absolute;
+    Height:150px;
+    width:750px;
+    padding-top:20px;
+    background-color:#326765;
+    font-family:helvetica;
+    text-align:center;
+    z-index:1;
+    top:1090px;
+    left:45%;
+    color:white;
+    font-size:20px;
+    border-radius: 25px;
+
+  }
+
+  .deserttext{
+    position:absolute;
+    Height:150px;
+    width:750px;
+    padding-top:20px;
+    background-color:#865c2d;
+    font-family:helvetica;
+    text-align:center;
+    z-index:1;
+    top:1485px;
+    left:45%;
+    color:white;
+    font-size:20px;
+    border-radius: 25px;
+
+  }
+
+  .waterfalltext{
+    position:absolute;
+    Height:150px;
+    width:750px;
+    padding-top:20px;
+    background-color:#364049;
+    font-family:helvetica;
+    text-align:center;
+    z-index:1;
+    top:1875px;
+    left:45%;
+    color:white;
+    font-size:20px;
+    border-radius: 25px;
+
+  }
+
+  .rockstext{
+    position:absolute;
+    Height:150px;
+    width:750px;
+    padding-top:20px;
+    background-color:#c69239;
+    font-family:helvetica;
+    text-align:center;
+    z-index:1;
+    top:2270;
+    left:45%;
+    color:white;
+    font-size:20px;
+    border-radius: 25px;
+
+  }

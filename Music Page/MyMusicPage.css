@@ -1,0 +1,27 @@
+body{
+    background-image: url(KanyeWest.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family:copperplate;
+}
+
+.about{
+    text-align:center;
+    background-color: rgba(0, 0, 0, 0.562);
+    color:white;
+    padding-bottom:10px;
+    font-size:17px;
+    font-family:helvetica;
+}
+
+a{
+    font-size:30px;
+    color:rgb(202, 133, 5);
+    font-family: Arial;
+}
+
+.audio{
+    position:absolute;
+    top:4%;
+    left:42%;
+}
