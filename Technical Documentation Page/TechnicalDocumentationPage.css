@@ -1,0 +1,48 @@
+.sidebar{
+background-color:white;
+text-align:center;
+outline: solid rgb(0, 0, 0) 5px;
+position:fixed;
+padding: 10px;
+text-align:left;
+top:7%;
+border-radius:5px;
+
+}
+
+
+  a:link, a:visited {
+    background-color: #5c5a5a;
+    color: white;
+    font-size:30px;
+    padding: 14px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    outline: 3px solid rgb(0, 0, 0);
+    border-radius:5px;
+    font-family:helvetica;
+  }
+
+  a:hover, a:active {
+    background-color: rgb(230, 172, 49);
+  }
+
+  .content{
+  position:absolute;
+  text-align:center;  
+  width:50%;
+  left:30%;
+  font-family:helvetica;
+  }
+  
+  p{
+    font-size:25px;
+  }
+
+  h1{
+    font-size:60px;
+   text-decoration:underline;
+   font-family:helvetica;
+  }
+ 
