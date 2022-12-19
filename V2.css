@@ -5,7 +5,7 @@ font-family:Arial, Helvetica, sans-serif;
 
 .Header{
     background-color:#8c8c8c;
-    padding-bottom:10px;
+    padding-bottom:0px;
     padding-top:10px;
     top:0%;
   position:fixed;
@@ -20,6 +20,8 @@ a:link, a:visited {
     background-color: #000099;
     font-size:30px;
     padding: 14px 50px;
+    margin-bottom:45px;
+    margin-top:15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -129,12 +131,54 @@ position:absolute;
 font-size:40px;
 font-weight:bold;
 left:15%;
-top:215%;
+top:360%;
 }
 
 .skills{
 position:absolute;
 left:13%;
-top:225%;
+top:371%;
 font-size:40px;
+}
+
+.MusicPageLink{
+position:absolute;
+top:234%;
+left:23%;
+}
+
+.RestarauntProjectLink{
+  position:absolute;
+  top:234%;
+  left:54%;
+}
+
+.EventPageLink{
+  position:absolute;
+  top:274%;
+  left:23%;
+}
+
+.ImagePageLink{
+  position:absolute;
+  top:274%;
+  left:56%;
+}
+
+.SurveyPageLink{
+  position:absolute;
+  top:314%;
+  left:23%;
+}
+
+.TributePageLink{
+  position:absolute;
+  top:314%;
+  left:56%;
+}
+
+.TechnicalDocumentationPageLink{
+  position:absolute;
+  top:354%;
+  left:17.25%;
 }
