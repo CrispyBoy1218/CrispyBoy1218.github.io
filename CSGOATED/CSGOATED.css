@@ -6,9 +6,10 @@ background-repeat: no-repeat;
 }
 
 body, html {
-  margin: 0;
+  margin: 10;
   padding: 0;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
   height: 100%;
 }
 
@@ -103,4 +104,14 @@ body, html {
 
   h1 {
     font-family: 'Bebas Neue', sans-serif;
+  }
+
+  .corner-img {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 200px;
+    height: auto;
+    z-index: 1000;
+    pointer-events: none;
   }
